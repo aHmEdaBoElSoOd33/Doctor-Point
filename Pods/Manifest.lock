@@ -1,0 +1,16 @@
+PODS:
+  - CHIPageControl/Aleppo (0.2)
+
+DEPENDENCIES:
+  - CHIPageControl/Aleppo
+
+SPEC REPOS:
+  trunk:
+    - CHIPageControl
+
+SPEC CHECKSUMS:
+  CHIPageControl: a787bf7205c9b7e7fbfc412be36c5e8636b68f86
+
+PODFILE CHECKSUM: 793630c1c70ff1d738c35dde9776778f7acce042
+
+COCOAPODS: 1.11.3
